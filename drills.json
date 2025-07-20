@@ -1,50 +1,17 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2025-01-20T11:40:00Z",
+  "version": "1.1.0",
+  "lastUpdated": "2025-01-20T11:45:00Z",
   "drills": [
     {
-      "id": "chipping-1",
-      "title": "Golf Chipping Tips",
-      "youtubeId": "aEQW87oHY3w",
-      "channelName": "Golf Tips Channel",
-      "channelUrl": "https://youtube.com/@golftipschannel",
-      "thumbnail": "https://img.youtube.com/vi/aEQW87oHY3w/maxresdefault.jpg",
-      "duration": "0:58",
-      "description": "Essential chipping technique that will improve your short game consistency.",
-      "challengeIds": [3, 4]
-    },
-    {
-      "id": "putting-1",
-      "title": "Putting Tips for Better Results",
-      "youtubeId": "GtUO3344aZI",
-      "channelName": "Golf Instruction Pro",
-      "channelUrl": "https://youtube.com/@golfinstructionpro",
-      "thumbnail": "https://img.youtube.com/vi/GtUO3344aZI/maxresdefault.jpg",
-      "duration": "1:00",
-      "description": "Quick putting tips to help you sink more putts and lower your scores.",
-      "challengeIds": [1]
-    },
-    {
-      "id": "short-putts-drill",
-      "title": "Short Putt Tips That Will Change Your Game",
-      "youtubeId": "gjWFLYSsWVE",
-      "channelName": "Golf Tips Channel",
-      "channelUrl": "https://youtube.com/@golftipschannel",
-      "thumbnail": "https://img.youtube.com/vi/gjWFLYSsWVE/maxresdefault.jpg",
-      "duration": "0:59",
-      "description": "Quick and effective short putting tips that will dramatically improve your success rate inside 6 feet.",
-      "challengeIds": [1]
-    },
-    {
-      "id": "lag-putting-1",
-      "title": "Golf Putting Distance Control",
-      "youtubeId": "Amp0KdDbnF0",
-      "channelName": "Golf Pro Academy",
-      "channelUrl": "https://youtube.com/@golfproacademy",
-      "thumbnail": "https://img.youtube.com/vi/Amp0KdDbnF0/maxresdefault.jpg",
-      "duration": "0:59",
-      "description": "Master distance control for consistent lag putting and fewer three-putts.",
-      "challengeIds": [2]
+      "id": "driving-shape-shot-1",
+      "title": "Shape Your Drive - Control Ball Flight",
+      "youtubeId": "v2YLqJPHM9s",
+      "channelName": "Golf Performance",
+      "channelUrl": "https://youtube.com/@golfperformance",
+      "thumbnail": "https://img.youtube.com/vi/v2YLqJPHM9s/maxresdefault.jpg",
+      "duration": "0:60",
+      "description": "Learn how to shape your drives and control ball flight for better accuracy and distance.",
+      "challengeIds": [11]
     }
   ]
 }
